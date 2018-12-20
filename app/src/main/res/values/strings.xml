@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRem</string>
+    <string name="textview">textview</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+    <string name="clear">clear</string>
+</resources>
